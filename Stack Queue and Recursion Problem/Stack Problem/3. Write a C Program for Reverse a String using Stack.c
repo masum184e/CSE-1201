@@ -42,13 +42,5 @@ int main(){
 
   printf("Reverse String: %s",str);
 
-  // push(&my_stack,10);
-  // push(&my_stack,11);
-  // push(&my_stack,12);
-  // printf("%d\n",pop(&my_stack));
-  // printf("%d\n",pop(&my_stack));
-  // printf("%d\n",pop(&my_stack));
-  // printf("%d\n",pop(&my_stack));
-
   return 0;
 }
